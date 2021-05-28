@@ -1,1 +1,1 @@
-# Home-automation-using-ardunino-and-bluetooth-modeule
+# Home-automation-using-ardunino-and-bluetooth-module
